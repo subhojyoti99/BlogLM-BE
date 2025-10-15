@@ -1,0 +1,8 @@
+__pycache__
+blogs
+front-end
+instagram_images
+.env
+blog_generator.db
+blogLM.db
+test.ipynb

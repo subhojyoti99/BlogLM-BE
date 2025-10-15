@@ -1,0 +1,1 @@
+content='' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.5-flash', 'safety_ratings': []} id='run--23b95e7d-67bf-4a7f-b124-9b33aa81a80e-0'
